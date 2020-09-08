@@ -4,3 +4,7 @@
 ### This repository comprises of two major sections :-
 ### - PCA with SVD 
 ### - Dual-PCA with SVD
+### Key takeaways from this post : -
+### - Dual-PCA is much more efficient than direct PCA (In terms of storage and speed)
+### - It is useful when the dimensionality of the data is very high as compared to that of the sample size.
+### - Lastly, it provides an opportunity for kernelizing the PCA
